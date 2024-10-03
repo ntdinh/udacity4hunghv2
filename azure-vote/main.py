@@ -17,7 +17,7 @@ from opencensus.trace.tracer import Tracer
 from opencensus.ext.flask.flask_middleware import FlaskMiddleware
 
 
-app_insights_conn_string = 'InstrumentationKey=417ac6ac-41fe-4bb4-99a7-aa8f5b64daa5;IngestionEndpoint=https://westus-0.in.applicationinsights.azure.com/;LiveEndpoint=https://westus.livediagnostics.monitor.azure.com/;ApplicationId=c7dcd7f2-9d7d-414e-b8a1-12814219980b'
+app_insights_conn_string = 'InstrumentationKey=90511746-fe12-4f4e-a777-7408077272bb;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=60cf1a2e-d461-46e3-a7a2-68ca4f558710'
 
 # Logging
 # TODO: Setup logger
